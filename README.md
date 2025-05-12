@@ -1,2 +1,17 @@
-# Flight-Status-Dashboard
-Interactive Power BI dashboard visualizing real-time and historical flight data, including flight statuses, delays, cancellations, and route insights. Aimed at providing actionable insights for airlines and airport operations teams.
+# ✈️ Flight Status Dashboard - Power BI Project
+
+This project is an interactive **Flight Status Dashboard** built using **Power BI**. It provides a visual analysis of flight performance, including **on-time arrivals**, **delays**, **cancellations**, and **route trends**.
+
+## 📊 Overview
+
+The dashboard is designed for:
+- Airline operations teams
+- Airport management
+- Aviation analysts
+
+By consolidating flight data into a visual format, stakeholders can:
+- Track performance metrics
+- Identify delay patterns
+- Monitor cancellations
+- Understand route efficiency
+
